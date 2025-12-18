@@ -5,7 +5,7 @@ function Apresenta(){
         
             <div className="w-[500px] h-[500px]  mt-[30px] ">
         
-                <img src='../src/assets/minha foto.jpeg' className="w-[300px] relative z-10 mx-auto max-w-sm fade-edges roundend-full"  />
+                <img src='/minhafoto.jpeg' className="w-[300px] relative z-10 mx-auto max-w-sm fade-edges roundend-full"  />
             </div> 
             <div >
             <h2>Guilherme Mercês</h2>

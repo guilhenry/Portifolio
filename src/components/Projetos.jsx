@@ -4,7 +4,7 @@ import ProjetosCard from "./ProjetosCard"
 const project = [{ 
     id: 1,
     name: 'Live Chat',
-    image: '../src/assets/projetos/live.png',
+    image: '/live.png',
     tecn: 'JAVA - SPRINGBOOT',
     linkc:'https://github.com/guilhenry/live-chat',
 
@@ -12,7 +12,7 @@ const project = [{
    {
     id: 2,
     name: 'Gerador de Currículo',
-    image: '../src/assets/projetos/curriculo_demo.gif',
+    image: '/curriculo_demo.gif',
     tecn: 'Kotlin - Adroid Studio',
     linkc:'https://github.com/guilhenry/Criar-curriculo/tree/main',
     
@@ -20,7 +20,7 @@ const project = [{
   {
     id: 3,
     name: 'Site de Casamento',
-    image: '../src/assets/projetos/casam.png',
+    image: '/casam.png',
     tecn: 'HTML - CSS - JAVASCRIPT',
     links: 'https://site-casamento-alpha.vercel.app/',
     linkc:'https://github.com/guilhenry/Site-Casamento',
@@ -28,7 +28,7 @@ const project = [{
   {
     id: 4,
     name: 'Gerador de cpf',
-    image: '../src/assets/projetos/cpf.png',
+    image: '/cpf.png',
     tecn: 'REACT - CSS - JAVASCRIPT',
     links: 'https://gerador-de-cpf-one.vercel.app/',
     linkc:'https://github.com/guilhenry/Gerador-de-cpf',
@@ -36,7 +36,7 @@ const project = [{
   {
     id: 5,
     name: 'Pedra, Papel, tesoura',
-    image: '../src/assets/projetos/papeltesoura.png',
+    image: '/papeltesoura.png',
     tecn: 'HTML - CSS - JAVASCRIPT',
     links: 'https://pedra-x-papel-x-tesoura.vercel.app/',
     linkc:'https://github.com/guilhenry/Pedra-x-Papel-x-tesoura',
@@ -45,7 +45,7 @@ const project = [{
   {
     id: 6,
     name: 'API de Produtos – CRUD em Java ',
-    image: '../src/assets/projetos/api.jpg',
+    image: '/api.jpg',
     tecn: 'JAVA - SPRINGBOOT',
     linkc:'https://github.com/guilhenry/Api-products',
   },
