@@ -4,7 +4,7 @@ import Header from './components/Header'
 import About from './components/About'
 import Projetos from './components/Projetos'
 import Apresenta from './components/Apresenta'
-import Contato from './components/contato'
+import Contato from './components/Contato'
 
 
 
