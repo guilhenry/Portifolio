@@ -10,7 +10,7 @@ function Apresenta(){
             <div >
             <h2>Guilherme Mercês</h2>
             <p>Desenvolvedor Front-end / Tecnico em informática </p>
-            <a href="../src/assets/arquivos/currículo 1.pdf" download><button className="mt-2 bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700 cursor-pointer" >Currículo</button></a>
+            <a href="/arquivos/currículo 1.pdf" download><button className="mt-2 bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700 cursor-pointer" >Currículo</button></a>
             </div>
         </div>
         <div className=" h-[50px]  bg-[#6B7280] flex items-center justify-between p-[20px] mt-[30px]  ">
